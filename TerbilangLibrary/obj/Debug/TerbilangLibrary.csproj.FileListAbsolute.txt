@@ -1,0 +1,5 @@
+D:\Fariz\Kulyah\Prog Lanjut\TerbilangApp\TerbilangLibrary\bin\Debug\TerbilangLibrary.dll
+D:\Fariz\Kulyah\Prog Lanjut\TerbilangApp\TerbilangLibrary\bin\Debug\TerbilangLibrary.pdb
+D:\Fariz\Kulyah\Prog Lanjut\TerbilangApp\TerbilangLibrary\obj\Debug\TerbilangLibrary.csprojResolveAssemblyReference.cache
+D:\Fariz\Kulyah\Prog Lanjut\TerbilangApp\TerbilangLibrary\obj\Debug\TerbilangLibrary.dll
+D:\Fariz\Kulyah\Prog Lanjut\TerbilangApp\TerbilangLibrary\obj\Debug\TerbilangLibrary.pdb

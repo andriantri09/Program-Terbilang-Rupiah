@@ -1,0 +1,4 @@
+D:\Fariz\Kulyah\Prog Lanjut\TerbilangApp\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\Fariz\Kulyah\Prog Lanjut\TerbilangApp\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\Fariz\Kulyah\Prog Lanjut\TerbilangApp\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\Fariz\Kulyah\Prog Lanjut\TerbilangApp\ClassLibrary\obj\Debug\ClassLibrary.pdb
